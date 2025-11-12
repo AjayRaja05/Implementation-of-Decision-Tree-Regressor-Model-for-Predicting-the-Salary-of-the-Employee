@@ -61,7 +61,11 @@ print(dt.predict([[5, 6]])[0])
 ## Output:
 <img width="387" height="384" alt="image" src="https://github.com/user-attachments/assets/b8490509-59f2-408a-923c-b4c7442cd158" />
 
+
+
 <img width="217" height="103" alt="image" src="https://github.com/user-attachments/assets/3f2eee39-469c-449f-927c-a51dae2afcdc" />
+
+
 
 <img width="1324" height="99" alt="image" src="https://github.com/user-attachments/assets/f9cc1b40-9383-4d6b-8fad-ed7d31c7b2ea" />
 
